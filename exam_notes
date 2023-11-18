@@ -1,0 +1,28 @@
+1. Evolution of Linux
+
+
+2. Open Source Applications
+
+
+3. The Linux Environment
+	Linux desktop environment
+	Programs and software
+	Linux shell and commands
+		mkdir  -make directory		rmdir	-remove directory	touch	-making a file		locate picture1.jpg	-to find a file
+
+	Managing software packages
+		Package Managers
+		APT	YUM	PACMAN
+		
+		Packages
+		.deb		Debian, Debian-derivied distros 
+		.rpm		Red Hat, Fedora, openSUSE
+		.tgz		Tarball or universal
+		
+4. The Command Line
+	Basic shell
+		BASH	the default shell in most distros
+	
+	Command-line syntax
+		Command name | Options(starts with a dash) | Arguments(no leading dashes)
+		[What to do]     [How to do it]		     [What to do with it]	 
